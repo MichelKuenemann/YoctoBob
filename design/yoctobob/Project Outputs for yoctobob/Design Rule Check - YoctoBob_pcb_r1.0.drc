@@ -1,7 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\merk\Desktop\YoctoBOB\design\yoctobob\YoctoBob_pcb_r1.0.0.PcbDoc
-Date     : 5/18/2015
-Time     : 11:03:28 PM
+Date     : 5/19/2015
+Time     : 11:44:41 AM
+
+Processing Rule : Minimum Annular Ring (Minimum=4mil) (All)
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -22,7 +25,22 @@ Processing Rule : Routing Layers(All)
 Rule Violations :0
 
 Processing Rule : Routing Via (MinHoleWidth=6mil) (MaxHoleWidth=28mil) (PreferredHoleWidth=6mil) (MinWidth=10mil) (MaxWidth=50mil) (PreferedWidth=10mil) (All)
-Rule Violations :0
+   Violation between Routing Via Style: Via (496.062mil,334.645mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (515.748mil,405.512mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (535.433mil,405.512mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (515.748mil,385.827mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (196.85mil,370.079mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (515.748mil,346.457mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (515.862mil,366.256mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (496.063mil,366.142mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (476.378mil,385.827mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (476.378mil,366.142mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (714.567mil,328.74mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (720.472mil,452.756mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (535.547mil,366.256mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (496.063mil,405.512mil) Top Layer to Bottom Layer
+   Violation between Routing Via Style: Via (602.362mil,492.126mil) Top Layer to Bottom Layer
+Rule Violations :15
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
@@ -82,5 +100,5 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 18
-Time Elapsed        : 00:00:00
+Violations Detected : 33
+Time Elapsed        : 00:00:01
