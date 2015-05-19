@@ -1,7 +1,0 @@
-Added Component: Designator=D2(RED_LED_0805)
-Added Component: Designator=R6(R0805)
-Added Pin To Net: NetName=GND Pin=D2-2
-Added Pin To Net: NetName=VDD Pin=R6-1
-Added Pin To Net: NetName=NetD2_1 Pin=D2-1
-Added Pin To Net: NetName=NetD2_1 Pin=R6-2
-Added Net: Name=NetD2_1
