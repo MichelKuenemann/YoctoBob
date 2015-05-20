@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for yoctobob
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -142,22 +142,6 @@ DocumentUniqueId=LVSMGSGQ
 DocumentPath=Project Outputs for yoctobob\Design Rule Check - YoctoBob_pcb_r1.0.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=..\..\..\yoctobob.htm
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\..\..\yoctobob.xls
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for yoctobob\YoctoBob_pcb_r1.0.0.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for yoctobob\YoctoBob_pcb_r1.0.0.CSV
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -204,9 +188,6 @@ SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
-[Generic_EDE]
-OutputDir=Project Outputs for yoctobob
-
 [Generic_SCH]
 Collation=True
 Copies=1
@@ -223,6 +204,9 @@ PageDef.mmMarginLeft=10160
 PageDef.mmMarginRight=10160
 PageDef.mmMarginTop=6350
 PageDef.mmMarginBottom=6350
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
