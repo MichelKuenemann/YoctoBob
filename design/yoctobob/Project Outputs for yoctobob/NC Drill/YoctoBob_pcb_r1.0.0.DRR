@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: YoctoBob_pcb_r1.0.0.PcbDoc   5/21/2015  5:43:35 PM
+NCDrill File Report For: YoctoBob_pcb_r1.0.0.PcbDoc   5/22/2015  6:45:42 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ EIA File   : YoctoBob_pcb_r1.0.0.DRL
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.1mm (3.937mil)         Round          5                9.07 mm (0.36 Inch)
-T2        0.15mm (5.905mil)        Round          12               30.04 mm (1.18 Inch)
+T1        0.15mm (5.905mil)        Round          14               32.31 mm (1.27 Inch)
+T2        0.1524mm (6mil)          Round          1                0.00 mm (0.00 Inch)
 T3        0.9mm (35.433mil)        Round          14               53.34 mm (2.10 Inch)
 ---------------------------------------------------------------------------
-Totals                                            31               92.45 mm (3.64 Inch)
+Totals                                            29               85.65 mm (3.37 Inch)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

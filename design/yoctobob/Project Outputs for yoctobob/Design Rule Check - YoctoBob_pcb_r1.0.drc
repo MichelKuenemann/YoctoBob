@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\merk\Desktop\YoctoBOB\YoctoBob\design\yoctobob\YoctoBob_pcb_r1.0.0.PcbDoc
-Date     : 5/21/2015
-Time     : 5:23:12 PM
+Date     : 5/22/2015
+Time     : 6:45:34 PM
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -9,37 +9,37 @@ Rule Violations :0
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=10mil) (Preferred=5mil) (All)
+Processing Rule : Width Constraint (Min=0.1mm) (Max=0.254mm) (Preferred=0.1mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Layers(All)
 Rule Violations :0
 
-Processing Rule : Routing Via (MinHoleWidth=3.937mil) (MaxHoleWidth=28mil) (PreferredHoleWidth=3.937mil) (MinWidth=14mil) (MaxWidth=50mil) (PreferedWidth=14mil) (All)
+Processing Rule : Routing Via (MinHoleWidth=0.1mm) (MaxHoleWidth=0.711mm) (PreferredHoleWidth=0.1mm) (MinWidth=0.4mm) (MaxWidth=1.27mm) (PreferedWidth=0.4mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=3.937mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.1mm) (Max=2.54mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=12mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.305mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=4mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=0.102mm) (All)
 Rule Violations :0
 
 
