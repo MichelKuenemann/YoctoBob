@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VDD Pin=LPC1102-A1
+Removed Pin From Net: NetName=PIO0_8 Pin=LPC1102-A2
+Removed Pin From Net: NetName=PIO0_9 Pin=LPC1102-A3
+Removed Pin From Net: NetName=PIO0_10/SWCLK Pin=LPC1102-A4
+Removed Pin From Net: NetName=GND Pin=LPC1102-B1
+Removed Pin From Net: NetName=XTALIN Pin=LPC1102-B2
+Removed Pin From Net: NetName=PIO1_0/AD1 Pin=LPC1102-B3
+Removed Pin From Net: NetName=PIO0_11/AD0 Pin=LPC1102-B4
+Removed Pin From Net: NetName=RESET_N Pin=LPC1102-C1
+Removed Pin From Net: NetName=PIO1_6/RXD Pin=LPC1102-C2
+Removed Pin From Net: NetName=PIO1_2/AD3 Pin=LPC1102-C3
+Removed Pin From Net: NetName=PIO1_1/AD2 Pin=LPC1102-C4
+Removed Pin From Net: NetName=PIO1_7/TXD Pin=LPC1102-D1
+Removed Pin From Net: NetName=VDD Pin=LPC1102-D2
+Removed Pin From Net: NetName=GND Pin=LPC1102-D3
+Removed Pin From Net: NetName=PIO1_3/SDWIO Pin=LPC1102-D4
+Removed Pin From Net: NetName=PIO0_8 Pin=R3-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R3-2
+Removed Pin From Net: NetName=PIO0_9 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Added Component: Designator=C3(C0805)
+Added Component: Designator=R1(R0805)
+Added Component: Designator=R5(R0805)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=RESET_N Pin=C3-2
+Added Pin To Net: NetName=RESET_N Pin=R1-1
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Pin To Net: NetName=PIO0_8 Pin=R5-1
+Added Pin To Net: NetName=NetD1_1 Pin=R5-2

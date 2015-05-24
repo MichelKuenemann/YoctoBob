@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: YoctoBob_LPC1102_r1.0.1.PcbDoc   5/24/2015  1:19:26 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : YoctoBob_LPC1102_r1.0.1-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          9                20.03 mm (0.79 Inch)
+T2        0.9mm (35.433mil)        Round          14               38.10 mm (1.50 Inch)
+---------------------------------------------------------------------------
+Totals                                            23               58.13 mm (2.29 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\merk\Desktop\YoctoBOB\YoctoBob\r1.0.1\design\YoctoBob_LPC1102\YoctoBob_LPC1102_r1.0.1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

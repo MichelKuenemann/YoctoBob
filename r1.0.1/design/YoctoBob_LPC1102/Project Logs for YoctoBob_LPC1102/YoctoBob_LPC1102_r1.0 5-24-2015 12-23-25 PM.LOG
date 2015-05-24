@@ -1,0 +1,17 @@
+Added Component: Designator=U1(BGA16x4)
+Added Pin To Net: NetName=VDD Pin=U1-A1
+Added Pin To Net: NetName=PIO0_8 Pin=U1-A2
+Added Pin To Net: NetName=PIO0_9 Pin=U1-A3
+Added Pin To Net: NetName=PIO0_10/SWCLK Pin=U1-A4
+Added Pin To Net: NetName=GND Pin=U1-B1
+Added Pin To Net: NetName=XTALIN Pin=U1-B2
+Added Pin To Net: NetName=PIO1_0/AD1 Pin=U1-B3
+Added Pin To Net: NetName=PIO0_11/AD0 Pin=U1-B4
+Added Pin To Net: NetName=RESET_N Pin=U1-C1
+Added Pin To Net: NetName=PIO1_6/RXD Pin=U1-C2
+Added Pin To Net: NetName=PIO1_2/AD3 Pin=U1-C3
+Added Pin To Net: NetName=PIO1_1/AD2 Pin=U1-C4
+Added Pin To Net: NetName=PIO1_7/TXD Pin=U1-D1
+Added Pin To Net: NetName=VDD Pin=U1-D2
+Added Pin To Net: NetName=GND Pin=U1-D3
+Added Pin To Net: NetName=PIO1_3/SDWIO Pin=U1-D4
