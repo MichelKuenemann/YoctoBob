@@ -199,6 +199,23 @@ Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
 
+[Generic_SCH]
+Collation=True
+Copies=1
+DelegateCopies=False
+PrinterName=PDF Architect 3
+Duplex=0
+Orientation=1
+PaperName=A4
+BinName=Default
+Units=1
+PageDef.mmHeight=210079
+PageDef.mmWidth=297127
+PageDef.mmMarginLeft=10160
+PageDef.mmMarginRight=10160
+PageDef.mmMarginTop=6350
+PageDef.mmMarginBottom=6350
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
